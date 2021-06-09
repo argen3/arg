@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6613579-9566-41f5-b71d-c58eae2cae9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/HTML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layout-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layout-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layout.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1920x1080/theme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/components/masonry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/components/masonry.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/components/progress-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/components/progress-bar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/components/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/components/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/layout.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/_progress-bar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/_social-icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/gui/_promo-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/gui/_service.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/gui/_work.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/plugins/_back-to-top.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/plugins/_bootstrap-components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utils/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utils/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery-migrate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.appear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.back-to-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.smooth-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/masonry/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/masonry/jquery.masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/css/simple-line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tiz3k0HxqI5uaeMAOaAkgk0gT4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6613579-9566-41f5-b71d-c58eae2cae9d" name="Default Changelist" comment="" />
+      <created>1623266501572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623266501572</updated>
+      <workItem from="1623266503035" duration="8000" />
+      <workItem from="1623266581905" duration="19000" />
+      <workItem from="1623266607029" duration="9000" />
+      <workItem from="1623266619384" duration="148000" />
+      <workItem from="1623266771223" duration="704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
